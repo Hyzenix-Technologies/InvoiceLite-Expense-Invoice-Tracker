@@ -39,3 +39,6 @@ next-env.d.ts
 /.postgresql-portable.zip
 /.postgresql/
 /.preview-start.cmd
+
+.vercel
+.env*

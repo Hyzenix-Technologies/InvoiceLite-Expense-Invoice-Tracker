@@ -1,0 +1,12 @@
+.git/
+.next/
+.vercel/
+.agents/
+node_modules/
+.postgresql/
+.postgresql-portable.zip
+.preview-start.cmd
+.env
+.env.local
+.env.*.local
+*.tsbuildinfo
